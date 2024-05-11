@@ -1,0 +1,1073 @@
+%family = (
+            'people' => {
+                          'I292' => {
+                                      'sort_str' => 'SOWMAN Mary',
+                                      'birth' => {
+                                                   'date' => '1890',
+                                                   'place' => 'Polstead, Suffolk',
+                                                   'year' => '1890'
+                                                 },
+                                      'name' => 'Mary SOWMAN',
+                                      'mother' => {
+                                                    'name' => 'Emma BORE',
+                                                    'id' => 'I286'
+                                                  },
+                                      'sex' => 'Female',
+                                      'father' => {
+                                                    'name' => 'John SOWMAN',
+                                                    'id' => 'I279'
+                                                  },
+                                      'id' => 'I292',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I11' => {
+                                     'sort_str' => 'SOWMAN Robert',
+                                     'birth' => {
+                                                  'date' => '29 JUN 1896',
+                                                  'place' => 'Polstead, Suffolk',
+                                                  'year' => '1896'
+                                                },
+                                     'name' => 'Robert SOWMAN',
+                                     'children' => [
+                                                     {
+                                                       'name' => 'Margaret Harriet SOWMAN',
+                                                       'id' => 'I56'
+                                                     },
+                                                     {
+                                                       'name' => 'Edith Constance SOWMAN',
+                                                       'id' => 'I57'
+                                                     },
+                                                     {
+                                                       'name' => 'Betty Barbara SOWMAN',
+                                                       'id' => 'I58'
+                                                     },
+                                                     {
+                                                       'name' => 'Brenda Kathleen SOWMAN',
+                                                       'id' => 'I59'
+                                                     },
+                                                     {
+                                                       'name' => 'Cecilia Agnes SOWMAN',
+                                                       'id' => 'I6'
+                                                     }
+                                                   ],
+                                     'mother' => {
+                                                   'name' => 'Harriet GANT',
+                                                   'id' => 'I21'
+                                                 },
+                                     'sex' => 'Male',
+                                     'spouses' => [
+                                                    {
+                                                      'name' => 'Agnes Mary TURPIN',
+                                                      'fam' => 'F7',
+                                                      'id' => 'I12'
+                                                    }
+                                                  ],
+                                     'father' => {
+                                                   'name' => 'Robert SOWMAN',
+                                                   'id' => 'I20'
+                                                 },
+                                     'id' => 'I11',
+                                     'death' => {
+                                                  'date' => '21 AUG 1983',
+                                                  'place' => 'Walton, Essex',
+                                                  'year' => '1983'
+                                                }
+                                   },
+                          'I262' => {
+                                      'sort_str' => 'SOWMAN Thomas',
+                                      'birth' => {
+                                                   'date' => '1757',
+                                                   'place' => 'Groton, Suffolk',
+                                                   'year' => '1757'
+                                                 },
+                                      'name' => 'Thomas SOWMAN',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'James SOWMAN',
+                                                        'id' => 'I260'
+                                                      },
+                                                      {
+                                                        'name' => 'Thomas SOWMAN',
+                                                        'id' => 'I268'
+                                                      },
+                                                      {
+                                                        'name' => 'John SOWMAN',
+                                                        'id' => 'I269'
+                                                      },
+                                                      {
+                                                        'name' => 'William SOWMAN',
+                                                        'id' => 'I270'
+                                                      },
+                                                      {
+                                                        'name' => 'Mary SOWMAN',
+                                                        'id' => 'I271'
+                                                      },
+                                                      {
+                                                        'name' => 'Sarah SOWMAN',
+                                                        'id' => 'I272'
+                                                      },
+                                                      {
+                                                        'name' => 'Benjamin SOWMAN',
+                                                        'id' => 'I273'
+                                                      },
+                                                      {
+                                                        'name' => 'Elizabeth SOWMAN',
+                                                        'id' => 'I274'
+                                                      },
+                                                      {
+                                                        'name' => 'Richard SOWMAN',
+                                                        'id' => 'I275'
+                                                      },
+                                                      {
+                                                        'name' => 'Robert SOWMAN',
+                                                        'id' => 'I276'
+                                                      }
+                                                    ],
+                                      'mother' => {
+                                                    'name' => 'Mary GRIST',
+                                                    'id' => 'I265'
+                                                  },
+                                      'sex' => 'Male',
+                                      'spouses' => [
+                                                     {
+                                                       'name' => 'Mary WARD',
+                                                       'fam' => 'F205',
+                                                       'id' => 'I263'
+                                                     }
+                                                   ],
+                                      'father' => {
+                                                    'name' => 'Richard SULMAN',
+                                                    'id' => 'I264'
+                                                  },
+                                      'id' => 'I262',
+                                      'death' => {
+                                                   'date' => '1826',
+                                                   'place' => 'Polstead, Suffolk',
+                                                   'year' => '1826'
+                                                 }
+                                    },
+                          'I12' => {
+                                     'sort_str' => 'TURPIN Agnes Mary',
+                                     'birth' => {
+                                                  'date' => '20 NOV 1902',
+                                                  'place' => 'Bradwell, Essex',
+                                                  'year' => '1902'
+                                                },
+                                     'name' => 'Agnes Mary TURPIN',
+                                     'children' => [
+                                                     {
+                                                       'name' => 'Margaret Harriet SOWMAN',
+                                                       'id' => 'I56'
+                                                     },
+                                                     {
+                                                       'name' => 'Edith Constance SOWMAN',
+                                                       'id' => 'I57'
+                                                     },
+                                                     {
+                                                       'name' => 'Betty Barbara SOWMAN',
+                                                       'id' => 'I58'
+                                                     },
+                                                     {
+                                                       'name' => 'Brenda Kathleen SOWMAN',
+                                                       'id' => 'I59'
+                                                     },
+                                                     {
+                                                       'name' => 'Cecilia Agnes SOWMAN',
+                                                       'id' => 'I6'
+                                                     }
+                                                   ],
+                                     'sex' => 'Female',
+                                     'spouses' => [
+                                                    {
+                                                      'name' => 'Robert SOWMAN',
+                                                      'fam' => 'F7',
+                                                      'id' => 'I11'
+                                                    }
+                                                  ],
+                                     'id' => 'I12',
+                                     'death' => {
+                                                  'date' => '31 MAR 1997',
+                                                  'place' => 'Bury St Edmunds, Suffolk',
+                                                  'year' => '1997'
+                                                }
+                                   },
+                          'I232' => {
+                                      'sort_str' => 'RUSSELL Michelle Amy',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Michelle Amy RUSSELL',
+                                      'mother' => {
+                                                    'name' => 'Patricia June COOPER',
+                                                    'id' => 'I230'
+                                                  },
+                                      'sex' => 'Female',
+                                      'father' => {
+                                                    'name' => 'Robert CLARK',
+                                                    'id' => 'I231'
+                                                  },
+                                      'id' => 'I232',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I0353' => {
+                                       'sort_str' => 'SULMAN John',
+                                       'birth' => {
+                                                    'date' => '1657',
+                                                    'place' => 'Boxford, Suffolk',
+                                                    'year' => '1657'
+                                                  },
+                                       'name' => 'John SULMAN',
+                                       'mother' => {
+                                                     'name' => 'Elizabeth ',
+                                                     'id' => 'I0352'
+                                                   },
+                                       'sex' => 'Male',
+                                       'spouses' => [
+                                                      {
+                                                        'name' => 'Elizabeth DYER',
+                                                        'fam' => 'F0006',
+                                                        'id' => 'I0354'
+                                                      }
+                                                    ],
+                                       'father' => {
+                                                     'name' => 'John SOWMAN',
+                                                     'id' => 'I0351'
+                                                   },
+                                       'id' => 'I0353',
+                                       'death' => {
+                                                    'date' => '1727',
+                                                    'place' => 'Kersey, Suffolk',
+                                                    'year' => '1727'
+                                                  }
+                                     },
+                          'I307' => {
+                                      'sort_str' => 'SULMAN Mary',
+                                      'birth' => {
+                                                   'date' => '1752',
+                                                   'place' => 'Groton, Suffolk',
+                                                   'year' => '1752'
+                                                 },
+                                      'name' => 'Mary SULMAN',
+                                      'mother' => {
+                                                    'name' => 'Mary GRIST',
+                                                    'id' => 'I265'
+                                                  },
+                                      'sex' => 'Female',
+                                      'father' => {
+                                                    'name' => 'Richard SULMAN',
+                                                    'id' => 'I264'
+                                                  },
+                                      'id' => 'I307',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I238' => {
+                                      'sort_str' => 'BORE Millie',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Millie BORE',
+                                      'mother' => {
+                                                    'name' => 'Harriet GANT',
+                                                    'id' => 'I21'
+                                                  },
+                                      'sex' => 'Female',
+                                      'father' => {
+                                                    'name' => 'Robert BORE',
+                                                    'id' => 'I236'
+                                                  },
+                                      'id' => 'I238',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I83' => {
+                                     'sort_str' => 'SOWMAN Harriet',
+                                     'birth' => {
+                                                  'date' => undef,
+                                                  'place' => undef
+                                                },
+                                     'name' => 'Harriet SOWMAN',
+                                     'mother' => {
+                                                   'name' => 'Harriet GANT',
+                                                   'id' => 'I21'
+                                                 },
+                                     'sex' => 'Female',
+                                     'father' => {
+                                                   'name' => 'Robert SOWMAN',
+                                                   'id' => 'I20'
+                                                 },
+                                     'id' => 'I83',
+                                     'death' => {
+                                                  'date' => undef,
+                                                  'place' => undef
+                                                }
+                                   },
+                          'I51' => {
+                                     'sort_str' => 'CROSS Alison Jane',
+                                     'birth' => {
+                                                  'date' => undef,
+                                                  'place' => undef
+                                                },
+                                     'name' => 'Alison Jane CROSS',
+                                     'children' => [
+                                                     {
+                                                       'name' => 'Sam Lawrence HAYES',
+                                                       'id' => 'I256'
+                                                     },
+                                                     {
+                                                       'name' => 'Luke HAYES',
+                                                       'id' => 'I257'
+                                                     },
+                                                     {
+                                                       'name' => 'Jake HAYES',
+                                                       'id' => 'I258'
+                                                     },
+                                                     {
+                                                       'name' => 'Kris HAYES',
+                                                       'id' => 'I259'
+                                                     }
+                                                   ],
+                                     'mother' => {
+                                                   'name' => 'Jean Ann SOWMAN',
+                                                   'id' => 'I3'
+                                                 },
+                                     'sex' => 'Female',
+                                     'spouses' => [
+                                                    {
+                                                      'name' => 'Stephen HAYES',
+                                                      'fam' => 'F39',
+                                                      'id' => 'I224'
+                                                    }
+                                                  ],
+                                     'father' => {
+                                                   'name' => 'John Melvyn CROSS',
+                                                   'id' => 'I2'
+                                                 },
+                                     'id' => 'I51',
+                                     'death' => {
+                                                  'date' => undef,
+                                                  'place' => undef
+                                                }
+                                   },
+                          'I259' => {
+                                      'sort_str' => 'HAYES Kris',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Kris HAYES',
+                                      'mother' => {
+                                                    'name' => 'Alison Jane CROSS',
+                                                    'id' => 'I51'
+                                                  },
+                                      'sex' => 'Male',
+                                      'father' => {
+                                                    'name' => 'Stephen HAYES',
+                                                    'id' => 'I224'
+                                                  },
+                                      'id' => 'I259',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I246' => {
+                                      'sort_str' => 'DUGDALE William John',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'William John DUGDALE',
+                                      'mother' => {
+                                                    'name' => 'Edith Constance SOWMAN',
+                                                    'id' => 'I57'
+                                                  },
+                                      'sex' => 'Male',
+                                      'father' => {
+                                                    'name' => 'Frederick DUGDALE',
+                                                    'id' => 'I245'
+                                                  },
+                                      'id' => 'I246',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I278' => {
+                                      'sort_str' => 'SOWMAN James',
+                                      'birth' => {
+                                                   'date' => '1847',
+                                                   'place' => undef,
+                                                   'year' => '1847'
+                                                 },
+                                      'name' => 'James SOWMAN',
+                                      'mother' => {
+                                                    'name' => 'Mary Ann CLARK',
+                                                    'id' => 'I261'
+                                                  },
+                                      'sex' => 'Male',
+                                      'spouses' => [
+                                                     {
+                                                       'name' => 'Mary Anne WILLIS',
+                                                       'fam' => 'F219',
+                                                       'id' => 'I285'
+                                                     }
+                                                   ],
+                                      'father' => {
+                                                    'name' => 'James SOWMAN',
+                                                    'id' => 'I260'
+                                                  },
+                                      'id' => 'I278',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I308' => {
+                                      'sort_str' => 'SULMAN Richard',
+                                      'birth' => {
+                                                   'date' => '1754',
+                                                   'place' => 'Groton, Suffolk',
+                                                   'year' => '1754'
+                                                 },
+                                      'name' => 'Richard SULMAN',
+                                      'mother' => {
+                                                    'name' => 'Mary GRIST',
+                                                    'id' => 'I265'
+                                                  },
+                                      'sex' => 'Male',
+                                      'father' => {
+                                                    'name' => 'Richard SULMAN',
+                                                    'id' => 'I264'
+                                                  },
+                                      'id' => 'I308',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I231' => {
+                                      'sort_str' => 'CLARK Robert',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Robert CLARK',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'Michelle Amy RUSSELL',
+                                                        'id' => 'I232'
+                                                      }
+                                                    ],
+                                      'sex' => 'Male',
+                                      'spouses' => [
+                                                     {
+                                                       'name' => 'Patricia June COOPER',
+                                                       'fam' => 'F185',
+                                                       'id' => 'I230'
+                                                     }
+                                                   ],
+                                      'id' => 'I231',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I6' => {
+                                    'sort_str' => 'SOWMAN Cecilia Agnes',
+                                    'birth' => {
+                                                 'date' => undef,
+                                                 'place' => undef
+                                               },
+                                    'name' => 'Cecilia Agnes SOWMAN',
+                                    'children' => [
+                                                    {
+                                                      'name' => 'Jean Ann SOWMAN',
+                                                      'id' => 'I3'
+                                                    }
+                                                  ],
+                                    'mother' => {
+                                                  'name' => 'Agnes Mary TURPIN',
+                                                  'id' => 'I12'
+                                                },
+                                    'sex' => 'Female',
+                                    'spouses' => [
+                                                   {
+                                                     'name' => '',
+                                                     'fam' => 'F3',
+                                                     'id' => 'I239'
+                                                   },
+                                                   {
+                                                     'name' => 'Victor Richard CHILD',
+                                                     'fam' => 'F6',
+                                                     'id' => 'I240'
+                                                   }
+                                                 ],
+                                    'father' => {
+                                                  'name' => 'Robert SOWMAN',
+                                                  'id' => 'I11'
+                                                },
+                                    'id' => 'I6',
+                                    'death' => {
+                                                 'date' => undef,
+                                                 'place' => undef
+                                               }
+                                  },
+                          'I0347' => {
+                                       'sort_str' => 'SULMAN Mary',
+                                       'birth' => {
+                                                    'date' => '1721',
+                                                    'place' => 'Groton, Suffolk',
+                                                    'year' => '1721'
+                                                  },
+                                       'name' => 'Mary SULMAN',
+                                       'mother' => {
+                                                     'name' => 'Mary HICKES',
+                                                     'id' => 'I267'
+                                                   },
+                                       'sex' => 'Female',
+                                       'father' => {
+                                                     'name' => 'John SULMAN',
+                                                     'id' => 'I266'
+                                                   },
+                                       'id' => 'I0347',
+                                       'death' => {
+                                                    'date' => undef,
+                                                    'place' => undef
+                                                  }
+                                     },
+                          'I20' => {
+                                     'sort_str' => 'SOWMAN Robert',
+                                     'birth' => {
+                                                  'date' => '1 JUN 1874',
+                                                  'place' => 'Polstead, Suffolk',
+                                                  'year' => '1874'
+                                                },
+                                     'name' => 'Robert SOWMAN',
+                                     'children' => [
+                                                     {
+                                                       'name' => 'Robert SOWMAN',
+                                                       'id' => 'I11'
+                                                     },
+                                                     {
+                                                       'name' => 'Emily SOWMAN',
+                                                       'id' => 'I82'
+                                                     },
+                                                     {
+                                                       'name' => 'Harriet SOWMAN',
+                                                       'id' => 'I83'
+                                                     },
+                                                     {
+                                                       'name' => 'Charles SOWMAN',
+                                                       'id' => 'I84'
+                                                     }
+                                                   ],
+                                     'mother' => {
+                                                   'name' => 'Sarah Ann SOWMAN',
+                                                   'id' => 'I0339'
+                                                 },
+                                     'sex' => 'Male',
+                                     'spouses' => [
+                                                    {
+                                                      'name' => 'Harriet GANT',
+                                                      'fam' => 'F12',
+                                                      'id' => 'I21'
+                                                    }
+                                                  ],
+                                     'father' => {
+                                                   'name' => '[UNKNOWN]',
+                                                   'id' => 'I0372'
+                                                 },
+                                     'id' => 'I20',
+                                     'death' => {
+                                                  'date' => '12 SEP 1901',
+                                                  'place' => 'Ramsey, Essex',
+                                                  'year' => '1901'
+                                                }
+                                   },
+                          'I82' => {
+                                     'sort_str' => 'SOWMAN Emily',
+                                     'birth' => {
+                                                  'date' => 'ABT 1898',
+                                                  'place' => undef,
+                                                  'year' => '1898'
+                                                },
+                                     'name' => 'Emily SOWMAN',
+                                     'mother' => {
+                                                   'name' => 'Harriet GANT',
+                                                   'id' => 'I21'
+                                                 },
+                                     'sex' => 'Female',
+                                     'father' => {
+                                                   'name' => 'Robert SOWMAN',
+                                                   'id' => 'I20'
+                                                 },
+                                     'id' => 'I82',
+                                     'death' => {
+                                                  'date' => undef,
+                                                  'place' => undef
+                                                }
+                                   },
+                          'I0352' => {
+                                       'sort_str' => ' Elizabeth',
+                                       'birth' => {
+                                                    'date' => undef,
+                                                    'place' => undef
+                                                  },
+                                       'name' => 'Elizabeth ',
+                                       'children' => [
+                                                       {
+                                                         'name' => 'Richard SULMAN',
+                                                         'id' => 'I0350'
+                                                       },
+                                                       {
+                                                         'name' => 'John SULMAN',
+                                                         'id' => 'I0353'
+                                                       }
+                                                     ],
+                                       'sex' => 'Female',
+                                       'spouses' => [
+                                                      {
+                                                        'name' => 'John SOWMAN',
+                                                        'fam' => 'F0005',
+                                                        'id' => 'I0351'
+                                                      }
+                                                    ],
+                                       'id' => 'I0352',
+                                       'death' => {
+                                                    'date' => undef,
+                                                    'place' => undef
+                                                  }
+                                     },
+                          'I311' => {
+                                      'sort_str' => 'SOWMAN William',
+                                      'birth' => {
+                                                   'date' => '1835',
+                                                   'place' => 'Colchester, Essex',
+                                                   'year' => '1835'
+                                                 },
+                                      'name' => 'William SOWMAN',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'William SOWMAN',
+                                                        'id' => 'I312'
+                                                      }
+                                                    ],
+                                      'mother' => {
+                                                    'name' => 'Elizabeth LESTER',
+                                                    'id' => 'I280'
+                                                  },
+                                      'sex' => 'Male',
+                                      'father' => {
+                                                    'name' => 'John SOWMAN',
+                                                    'id' => 'I269'
+                                                  },
+                                      'id' => 'I311',
+                                      'death' => {
+                                                   'date' => '1882',
+                                                   'place' => 'Colchester, Essex',
+                                                   'year' => '1882'
+                                                 }
+                                    },
+                          'I280' => {
+                                      'sort_str' => 'LESTER Elizabeth',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Elizabeth LESTER',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'William SOWMAN',
+                                                        'id' => 'I311'
+                                                      }
+                                                    ],
+                                      'sex' => 'Female',
+                                      'spouses' => [
+                                                     {
+                                                       'name' => 'John SOWMAN',
+                                                       'fam' => 'F210',
+                                                       'id' => 'I269'
+                                                     }
+                                                   ],
+                                      'id' => 'I280',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I56' => {
+                                     'sort_str' => 'SOWMAN Margaret Harriet',
+                                     'birth' => {
+                                                  'date' => undef,
+                                                  'place' => undef
+                                                },
+                                     'name' => 'Margaret Harriet SOWMAN',
+                                     'children' => [
+                                                     {
+                                                       'name' => 'Janet Mary DOMAN',
+                                                       'id' => 'I242'
+                                                     },
+                                                     {
+                                                       'name' => 'Andrew William Peter DOMAN',
+                                                       'id' => 'I243'
+                                                     },
+                                                     {
+                                                       'name' => 'Helen Margaret DOMAN',
+                                                       'id' => 'I244'
+                                                     }
+                                                   ],
+                                     'mother' => {
+                                                   'name' => 'Agnes Mary TURPIN',
+                                                   'id' => 'I12'
+                                                 },
+                                     'sex' => 'Female',
+                                     'spouses' => [
+                                                    {
+                                                      'name' => 'Richard William DOMAN',
+                                                      'fam' => 'F44',
+                                                      'id' => 'I241'
+                                                    }
+                                                  ],
+                                     'father' => {
+                                                   'name' => 'Robert SOWMAN',
+                                                   'id' => 'I11'
+                                                 },
+                                     'id' => 'I56',
+                                     'death' => {
+                                                  'date' => undef,
+                                                  'place' => undef
+                                                }
+                                   },
+                          'I272' => {
+                                      'sort_str' => 'SOWMAN Sarah',
+                                      'birth' => {
+                                                   'date' => '1793',
+                                                   'place' => undef,
+                                                   'year' => '1793'
+                                                 },
+                                      'name' => 'Sarah SOWMAN',
+                                      'mother' => {
+                                                    'name' => 'Mary WARD',
+                                                    'id' => 'I263'
+                                                  },
+                                      'sex' => 'Female',
+                                      'father' => {
+                                                    'name' => 'Thomas SOWMAN',
+                                                    'id' => 'I262'
+                                                  },
+                                      'id' => 'I272',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I255' => {
+                                      'sort_str' => ' Lorraine Mary',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Lorraine Mary ',
+                                      'mother' => {
+                                                    'name' => 'Mary DUGDALE',
+                                                    'id' => 'I248'
+                                                  },
+                                      'sex' => 'Female',
+                                      'father' => {
+                                                    'name' => 'Michael ',
+                                                    'id' => 'I254'
+                                                  },
+                                      'id' => 'I255',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I313' => {
+                                      'sort_str' => 'SOWMAN Alfred William Rudkin',
+                                      'birth' => {
+                                                   'date' => '21 APR 1862',
+                                                   'place' => 'Colchester, Essex',
+                                                   'year' => '1862'
+                                                 },
+                                      'name' => 'Alfred William Rudkin SOWMAN',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'John Edward Rudkin SOWMAN',
+                                                        'id' => 'I314'
+                                                      }
+                                                    ],
+                                      'sex' => 'Male',
+                                      'father' => {
+                                                    'name' => 'William SOWMAN',
+                                                    'id' => 'I312'
+                                                  },
+                                      'id' => 'I313',
+                                      'death' => {
+                                                   'date' => '29 NOV 1945',
+                                                   'place' => 'Shalford, Surrey',
+                                                   'year' => '1945'
+                                                 }
+                                    },
+                          'I281' => {
+                                      'sort_str' => 'WATKINSON Anne',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Anne WATKINSON',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'Benjamin SOWMAN',
+                                                        'id' => 'I282'
+                                                      }
+                                                    ],
+                                      'sex' => 'Female',
+                                      'spouses' => [
+                                                     {
+                                                       'name' => 'Benjamin SOWMAN',
+                                                       'fam' => 'F214',
+                                                       'id' => 'I273'
+                                                     }
+                                                   ],
+                                      'id' => 'I281',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I237' => {
+                                      'sort_str' => 'BORE Ethel',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Ethel BORE',
+                                      'mother' => {
+                                                    'name' => 'Harriet GANT',
+                                                    'id' => 'I21'
+                                                  },
+                                      'sex' => 'Female',
+                                      'father' => {
+                                                    'name' => 'Robert BORE',
+                                                    'id' => 'I236'
+                                                  },
+                                      'id' => 'I237',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I327' => {
+                                      'sort_str' => 'SOWMAN Thomas',
+                                      'birth' => {
+                                                   'date' => '1831',
+                                                   'place' => 'Stoke-by-Nayland, Suffolk',
+                                                   'year' => '1831'
+                                                 },
+                                      'name' => 'Thomas SOWMAN',
+                                      'mother' => {
+                                                    'name' => 'Mary Ann ',
+                                                    'id' => 'I326'
+                                                  },
+                                      'sex' => 'Male',
+                                      'father' => {
+                                                    'name' => 'Richard SOWMAN',
+                                                    'id' => 'I275'
+                                                  },
+                                      'id' => 'I327',
+                                      'death' => {
+                                                   'date' => '16 SEP 1909',
+                                                   'place' => undef,
+                                                   'year' => '1909'
+                                                 }
+                                    },
+                          'I225' => {
+                                      'sort_str' => 'COOPER Robert Daniel',
+                                      'birth' => {
+                                                   'date' => '12 SEP 1915',
+                                                   'place' => undef,
+                                                   'year' => '1915'
+                                                 },
+                                      'name' => 'Robert Daniel COOPER',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'Barbara Linda COOPER',
+                                                        'id' => 'I227'
+                                                      },
+                                                      {
+                                                        'name' => 'Patricia June COOPER',
+                                                        'id' => 'I230'
+                                                      }
+                                                    ],
+                                      'sex' => 'Male',
+                                      'spouses' => [
+                                                     {
+                                                       'name' => 'Betty Barbara SOWMAN',
+                                                       'fam' => 'F46',
+                                                       'id' => 'I58'
+                                                     }
+                                                   ],
+                                      'id' => 'I225',
+                                      'death' => {
+                                                   'date' => '24 OCT 1972',
+                                                   'place' => undef,
+                                                   'year' => '1972'
+                                                 }
+                                    },
+                          'I330' => {
+                                      'sort_str' => 'SOWMAN Robert',
+                                      'birth' => {
+                                                   'date' => '1841',
+                                                   'place' => 'Higham, Suffolk',
+                                                   'year' => '1841'
+                                                 },
+                                      'name' => 'Robert SOWMAN',
+                                      'mother' => {
+                                                    'name' => 'Mary Ann ',
+                                                    'id' => 'I326'
+                                                  },
+                                      'sex' => 'Male',
+                                      'father' => {
+                                                    'name' => 'Richard SOWMAN',
+                                                    'id' => 'I275'
+                                                  },
+                                      'id' => 'I330',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I224' => {
+                                      'sort_str' => 'HAYES Stephen',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Stephen HAYES',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'Sam Lawrence HAYES',
+                                                        'id' => 'I256'
+                                                      },
+                                                      {
+                                                        'name' => 'Luke HAYES',
+                                                        'id' => 'I257'
+                                                      },
+                                                      {
+                                                        'name' => 'Jake HAYES',
+                                                        'id' => 'I258'
+                                                      },
+                                                      {
+                                                        'name' => 'Kris HAYES',
+                                                        'id' => 'I259'
+                                                      }
+                                                    ],
+                                      'sex' => 'Male',
+                                      'spouses' => [
+                                                     {
+                                                       'name' => 'Alison Jane CROSS',
+                                                       'fam' => 'F39',
+                                                       'id' => 'I51'
+                                                     }
+                                                   ],
+                                      'id' => 'I224',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I326' => {
+                                      'sort_str' => ' Mary Ann',
+                                      'birth' => {
+                                                   'date' => '1809',
+                                                   'place' => 'Layham, Suffolk',
+                                                   'year' => '1809'
+                                                 },
+                                      'name' => 'Mary Ann ',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'Thomas SOWMAN',
+                                                        'id' => 'I327'
+                                                      },
+                                                      {
+                                                        'name' => 'Ann SOWMAN',
+                                                        'id' => 'I328'
+                                                      },
+                                                      {
+                                                        'name' => 'Mary SOWMAN',
+                                                        'id' => 'I329'
+                                                      },
+                                                      {
+                                                        'name' => 'Robert SOWMAN',
+                                                        'id' => 'I330'
+                                                      },
+                                                      {
+                                                        'name' => 'William SOWMAN',
+                                                        'id' => 'I331'
+                                                      }
+                                                    ],
+                                      'sex' => 'Female',
+                                      'spouses' => [
+                                                     {
+                                                       'name' => 'Richard SOWMAN',
+                                                       'fam' => 'F216',
+                                                       'id' => 'I275'
+                                                     }
+                                                   ],
+                                      'id' => 'I326',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I248' => {
+                                      'sort_str' => 'DUGDALE Mary',
+                                      'birth' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 },
+                                      'name' => 'Mary DUGDALE',
+                                      'children' => [
+                                                      {
+                                                        'name' => 'Lorraine Mary ',
+                                                        'id' => 'I255'
+                                                      }
+                                                    ],
+                                      'mother' => {
+                                                    'name' => 'Edith Constance SOWMAN',
+                                                    'id' => 'I57'
+                                                  },
+                                      'sex' => 'Female',
+                                      'spouses' => [
+                                                     {
+                                                       'name' => 'Michael ',
+                                                       'fam' => 'F196',
+                                                       'id' => 'I254'
+                                                     }
+                                                   ],
+                                      'father' => {
+                                                    'name' => 'Frederick DUGDALE',
+                                                    'id' => 'I245'
+                                                  },
+                                      'id' => 'I248',
+                                      'death' => {
+                                                   'date' => undef,
+                                                   'place' => undef
+                                                 }
+                                    },
+                          'I245' => {
+                                      'sort_str' => 'DUGDALE Frederick',
